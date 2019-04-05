@@ -20,3 +20,6 @@ This port and my work is in no way related to Google.
 
 The Python conversion code that started me on my way was adapted from the CoreML port at https://github.com/infocom-tpo/PoseNet-CoreML
 
+### sample output :
+ ![](pose.jpg)
+  
